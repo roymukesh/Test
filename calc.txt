@@ -1,5 +1,5 @@
-Def add(x,y):
-	Return x+y
+Def sub(x,y):
+	Return x-y;
 	
-Def mult(x,y):
-	Return x*y
+Def mul(x,y):
+	Return x*y;
